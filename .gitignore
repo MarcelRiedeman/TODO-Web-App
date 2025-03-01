@@ -1,0 +1,20 @@
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+obj/
+bin/
+/wwwroot/lib/
+
+# Ignore environment-specific files
+appsettings.Development.json
+
+# Ignore development machine-specific files
+Properties/serviceDependencies.json
+Properties/serviceDependencies.local.json
+
+# Ignore static generated files
+wwwroot/css/site.css
+wwwroot/js/site.js
+wwwroot/favicon.ico
