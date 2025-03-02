@@ -1,6 +1,6 @@
 # TODO Web App
 
-Welcome to the TODO Web App repository!
+Welcome to my TODO Web App repository!
 
 ## Overview
 
